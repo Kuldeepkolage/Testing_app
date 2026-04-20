@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 
-// ===== FUNCTION FOR UNIT TEST =====
+
 int add(int a, int b) {
   return a + b;
 }
 
-// ===== MAIN APP =====
+
 void main() {
   runApp(MyApp());
 }
